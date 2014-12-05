@@ -1,0 +1,7 @@
+WORKFLOW
+Reduce:PCA
+Cull:Variance;CutoffOp
+Data:Normalize;NormalizeOp
+Collect:Pearson;PearsonCollectOp
+Reduce:PCA;PCAOp
+View:SPLOM;SplomOp

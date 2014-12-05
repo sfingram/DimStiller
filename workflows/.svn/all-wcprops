@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/users/torsten/!svn/ver/440/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/DimStiller/workflows
+END
+clusterVerify.wkfl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/users/torsten/!svn/ver/440/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/DimStiller/workflows/clusterVerify.wkfl
+END
+reduceMDS.wkfl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/users/torsten/!svn/ver/440/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/DimStiller/workflows/reduceMDS.wkfl
+END
+reducePCA.wkfl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/users/torsten/!svn/ver/440/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/DimStiller/workflows/reducePCA.wkfl
+END

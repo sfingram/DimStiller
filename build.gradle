@@ -1,0 +1,27 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceCompatibility = 1.5
+
+group = 'cstacks'
+version = '0.0.1'
+
+repositories {
+    flatDir {
+        dirs 'lib'
+    }
+    mavenCentral()
+}
+
+dependencies {
+    compile name: 'core'
+    compile 'gov.nist.math:jama:1.0.2'
+    compile 'org.jblas:jblas:1.2.3'
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}
+
+run {
+    standardInput = System.in
+    main = 'still.gui.DimStiller'
+    args = ['-D','./build/classes/main/still/operators','-W', './workflows/']
+}

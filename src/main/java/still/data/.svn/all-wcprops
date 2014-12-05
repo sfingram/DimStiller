@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/users/torsten/!svn/ver/530/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data
+END
+ProcTableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/users/torsten/!svn/ver/530/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/ProcTableFactory.java
+END
+Binner2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/users/torsten/!svn/ver/510/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/Binner2D.java
+END
+Binner.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/users/torsten/!svn/ver/531/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/Binner.java
+END
+Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/users/torsten/!svn/ver/482/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/Map.java
+END
+TableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/users/torsten/!svn/ver/509/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/TableFactory.java
+END
+MemoryTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/users/torsten/!svn/ver/440/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/MemoryTable.java
+END
+OperatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/users/torsten/!svn/ver/477/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/OperatorFactory.java
+END
+DimensionDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/users/torsten/!svn/ver/434/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/DimensionDescriptor.java
+END
+FloatIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/users/torsten/!svn/ver/435/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/FloatIndexer.java
+END
+MemoryGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/users/torsten/!svn/ver/364/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/MemoryGroup.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/users/torsten/!svn/ver/375/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/Function.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/users/torsten/!svn/ver/378/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/Table.java
+END
+ClusterTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/users/torsten/!svn/ver/530/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/ClusterTable.java
+END
+TableEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/users/torsten/!svn/ver/478/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/TableEvent.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/users/torsten/!svn/ver/531/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/Operator.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/users/torsten/!svn/ver/364/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/Group.java
+END
+LazyDims.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/users/torsten/!svn/ver/364/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/LazyDims.java
+END
+LazyGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/users/torsten/!svn/ver/364/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/LazyGroup.java
+END
+TableListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/users/torsten/!svn/ver/378/SPG07_HighD/branches/VeronikaDevelopment/branches/IngramDevelopment/Code_Base/heidi/src/still/data/TableListener.java
+END

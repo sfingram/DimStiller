@@ -1,0 +1,6 @@
+WORKFLOW
+Cluster Verify
+View:Color;ColorOp
+Data:Normalize;NormalizeOp
+Reduce:PCA;PCAOp
+View:SPLOM;SplomOp

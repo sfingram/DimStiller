@@ -1,0 +1,7 @@
+WORKFLOW
+Reduce:MDS
+Cull:Variance;CutoffOp
+Data:Normalize;NormalizeOp
+Collect:Pearson;PearsonCollectOp
+Reduce:MDS;GlimmerOp
+View:SPLOM;SplomOp
