@@ -3,7 +3,7 @@ apply plugin: 'application'
 
 sourceCompatibility = 1.5
 
-group = 'cstacks'
+group = 'dimstiller'
 version = '0.0.1'
 
 repositories {
